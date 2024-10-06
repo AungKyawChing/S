@@ -1,0 +1,19 @@
+html body table{
+    width: 96%;
+    border-collapse: collapse;
+    margin: 2%;
+    border: 5px red;
+}
+th, td{
+    border: 2px solid skyblue;
+    padding: 4px;
+    text-align: center;
+    font-size: 15px;
+}
+thead{
+    position: sticky;
+    top: -1px;
+}
+th{
+    background-color: skyblue;
+}
